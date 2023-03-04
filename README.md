@@ -14,3 +14,21 @@ This will search all files in a directory in parallel for a search phrase you in
 
 - pip3 install googletrans==4.0.0-rc1
 - python3 searchmatic.py
+
+
+*If you are trynna be a power user you might get API errors on the final translation. Sorry idk fix the scipt or something. Add in a huggingface translator or something. Idk.*
+ 
+ 
+--- 
+Per googletrans pypi page:
+
+Note on library usage
+DISCLAIMER: this is an unofficial library using the web API of translate.google.com and also is not associated with Google.
+
+The maximum character limit on a single text is 15k.
+
+Due to limitations of the web version of google translate, this API does not guarantee that the library would work properly at all times (so please use this library if you don’t care about stability).
+
+
+---
+
