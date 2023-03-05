@@ -16,7 +16,7 @@ This will search all files in a directory in parallel for a search phrase you in
 - python3 searchmatic.py
 
 
-*If you are trynna be a power user you might get API errors on the final translation. Sorry idk fix the scipt or something. Add in a huggingface translator or something. Idk.*
+*If you are trynna be a power user you might get API errors on the final translation. Sorry idk fix the scipt or something. Add in a huggingface translator or something. Idk maybe just comment it out if it's giving you trouble.*
  
  
 --- 
